@@ -2,7 +2,3 @@ chardet==2.1.1
 colorama==0.2.5
 defer==1.0.4
 html5lib==0.999
-python-apt==0.9.3.5
-requests==2.2.1
-six==1.5.2
-urllib3==1.7.1
